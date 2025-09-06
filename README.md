@@ -1,6 +1,6 @@
 # Ganeca
 
-![Sample]([https://raw.githubusercontent.com/sora-xor/sora-font/master/docs/sample.png](https://raw.githubusercontent.com/exploshiva/Ganeca/refs/heads/master/docs/Ganeca%20Sample.png))
+![Sample](https://raw.githubusercontent.com/exploshiva/Ganeca/refs/heads/master/docs/Ganeca%20Sample.png)
 
 
 Ganeca is a custom typeface family commissioned for the Corporate of ITB Enterprise, based on the SORA by Barnbrook Fonts. Designed as a branding and interface solution, every decision in its development was made with today’s crisp digital environments in mind. A large x-height and generous counters make the family highly effective for app and web interfaces, ensuring clarity at any size. The result is a neutral yet distinctive sans serif typeface that delivers excellent legibility across diverse mediums.
