@@ -1,4 +1,4 @@
-# SORA typeface
+# Ganeca
 
 ![Sample](https://raw.githubusercontent.com/sora-xor/sora-font/master/docs/sample.png)
 ![Sample](https://raw.githubusercontent.com/sora-xor/sora-font/master/docs/sample-italic-2.png)
